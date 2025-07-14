@@ -99,7 +99,8 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 For questions, suggestions, or collaboration, please contact:
 
-- **Maintainer:** [Your Name]
+- **Maintainer:** Mahadi Hasan Alif
+- **Organization:** Politecnico Di Torino
 - **Location:** Torino, Piemonte
 
 *This repository is a work in progress. Stay tuned for updates on the full firmware implementation!*
